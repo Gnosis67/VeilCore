@@ -2,3 +2,8 @@ name = "veilcore"
 main = "src/index.ts"
 compatibility_date = "2026-09-28"
 workers_dev = true
+
+[[d1_databases]]
+binding = "veilcore_db"
+database_name = "veilcore-db"
+database_id = "fe9c17a1-216e-4d0c-8705-e2d826c45dda"
